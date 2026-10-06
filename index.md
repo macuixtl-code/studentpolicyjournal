@@ -10,10 +10,10 @@ Independent student research, policy analysis, and commentary.
 
 ---
 [Home]({{ '/' | relative_url }}) |
-[Articles]({{ '/articles/' | relative_url }}) |
-[About]({{ '/about/' | relative_url }}) |
-[Team]({{ '/team/' | relative_url }}) |
-[Submit]({{ '/submit/' | relative_url }})
+[Articles](https://macuixtl-code.github.io/studentpolicyjournal/articles/)|
+[About](https://macuixtl-code.github.io/studentpolicyjournal/about/) |
+[Team](https://macuixtl-code.github.io/studentpolicyjournal/team/) |
+[Submit](https://macuixtl-code.github.io/studentpolicyjournal/submit/)
 
 Welcome to our publication. We publish student research, policy
 analysis, and commentary.
