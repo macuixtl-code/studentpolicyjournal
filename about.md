@@ -3,11 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
----
-layout: default
-title: About
-permalink: /about/
----
+
 
 <nav class="top-nav">
   <a href="{{ '/' | relative_url }}">Home</a>
