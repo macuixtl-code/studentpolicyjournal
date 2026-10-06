@@ -14,18 +14,10 @@ title: Home
 # Student Policy Journal
 
 Independent student research, policy analysis, and commentary.
-# Your Publication Name
-
-Independent student research, policy analysis, and commentary.
 
 [Read Our Articles](articles.md) | [Submit Your Work](submit.md)
 
 ---
-[Home]({{ '/' | relative_url }}) |
-[Articles](https://macuixtl-code.github.io/studentpolicyjournal/articles/)|
-[About](https://macuixtl-code.github.io/studentpolicyjournal/about/) |
-[Team](https://macuixtl-code.github.io/studentpolicyjournal/team/) |
-[Submit](https://macuixtl-code.github.io/studentpolicyjournal/submit/)
 
 Welcome to our publication. We publish student research, policy
 analysis, and commentary.
