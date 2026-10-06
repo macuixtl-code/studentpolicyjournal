@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 title: Student Policy Journal
 description: A short description of my website
+header_pages:
+  - articles.md
+  - about.md
+  - team.md
+  - submit.md
