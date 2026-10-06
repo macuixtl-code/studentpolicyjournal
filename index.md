@@ -9,6 +9,14 @@ Independent student research, policy analysis, and commentary.
 [Read Our Articles](articles.md) | [Submit Your Work](submit.md)
 
 ---
+[Home]({{ '/' | relative_url }}) |
+[Articles]({{ '/articles/' | relative_url }}) |
+[About]({{ '/about/' | relative_url }}) |
+[Team]({{ '/team/' | relative_url }}) |
+[Submit]({{ '/submit/' | relative_url }})
+
+Welcome to our publication. We publish student research, policy
+analysis, and commentary.
 
 ## Featured Publication
 
