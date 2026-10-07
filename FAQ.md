@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
 # FAQ
 ### I’m graduating, can I still submit?
 Yes! We welcome submissions from graduating and recently graduated students.
