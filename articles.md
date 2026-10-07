@@ -15,14 +15,14 @@ permalink: /articles/
 
 Explore original research, essays, and commentary written by our contributors.
 
-## Student Submissions
+## Policy Analysis
 
 - [Title of First Article](/2026/10/06/welcome.html)
 
-## Faculty Submissions
+## Commentary
 
 No articles published yet.
 
-## Commentary
+## Faculty Submissions
 
 No articles published yet.
