@@ -64,3 +64,5 @@ Think tanks publish a variety of kinds of work at various levels of formality wi
  
 ### Fact-Driven Opinion:
 These pieces don’t have a consistent form but should marshal evidence toward a conclusion about policy or policymaking. The think tanks and journals above mostly publish opinion pieces in addition to their informational work, often labeled as ‘commentary’, ‘blog posts’, or ‘perspectives’. Major news organizations also publish evidence-driven opinion work worth emulating, but it’s often mixed with more ideologically driven work that we’re less interested in publishing.
+
+{% include journal-footer.html %}
