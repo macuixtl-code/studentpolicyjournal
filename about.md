@@ -34,3 +34,5 @@ and ideas into work that informs a broader audience.
 - Essays and commentary
 - Interviews
 - Reviews
+
+{% include journal-footer.html %}
