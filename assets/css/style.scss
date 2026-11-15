@@ -1,6 +1,36 @@
 ---
 ---
 
+.top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin: 0 0 40px;
+  padding: 15px 0;
+  background: transparent;
+  border-top: 1px solid #b9c0c7;
+  border-bottom: 1px solid #b9c0c7;
+  border-radius: 0;
+}
+
+.top-nav a {
+  padding: 0;
+  color: #17324d;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.top-nav a:hover {
+  color: #9b3028;
+}
+
+---
+---
+
 @import "{{ site.theme }}";
 
 header h1 {
@@ -19,3 +49,43 @@ footer {
   display: none;
 }
 
+/* Hide Dinky's GitHub project button */
+header ul.downloads {
+  display: none;
+}
+
+/* Hide Dinky's automatic GitHub footer */
+.wrapper > footer {
+  display: none;
+}
+
+/* Display the journal's own footer */
+.journal-footer {
+  display: block;
+  position: static;
+  float: none;
+  clear: both;
+  width: 100%;
+  margin: 60px 0 0;
+  padding: 18px 0 5px;
+  border-top: 1px solid #dddddd;
+  color: #777777;
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.journal-footer p {
+  margin: 2px 0;
+}
+
+.journal-footer a {
+  color: #666666;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.journal-footer a:hover {
+  color: #b22222;
+  text-decoration: underline;
+}
