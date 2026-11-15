@@ -27,3 +27,5 @@ No articles published yet.
 ## Faculty Submissions
 
 No articles published yet.
+
+{% include journal-footer.html %}
