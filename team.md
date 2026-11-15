@@ -23,3 +23,5 @@ Short biography.
 
 **Name**  
 Short biography.
+
+{% include journal-footer.html %}
