@@ -50,3 +50,5 @@ Submissions should follow the guidelines below and be submitted via our Google F
 ## How to Submit
 
 Email your submission to: macuixtl@usc.edu
+
+{% include journal-footer.html %}
