@@ -27,8 +27,7 @@ analysis, and commentary.
 
 ### [Title of Your Featured Article](/2026/10/06/welcome.html)
 
-Write two or three sentences describing the article and why readers
-may find it important.
+This piece is relevant because...
 
 ---
 
