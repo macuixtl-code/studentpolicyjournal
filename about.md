@@ -16,10 +16,7 @@ permalink: /about/
 
 # About Us
 
-Write your About-page content here.
-# About Us
-
-Your Publication Name is a student-led publication dedicated to
+The USC Student Policy Journal is a student-led publication dedicated to
 thoughtful and accessible analysis.
 
 ## Our Mission
