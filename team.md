@@ -19,6 +19,11 @@ permalink: /team/
 **Name**  
 Short biography.
 
+## Senior Editor
+
+**Name**  
+Short biography.
+
 ## Editors
 
 **Name**  
